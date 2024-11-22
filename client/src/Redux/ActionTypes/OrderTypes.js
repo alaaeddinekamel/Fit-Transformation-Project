@@ -1,0 +1,10 @@
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART'
+export const UPDATE_CART_ITEM = 'UPDATE_CART_ITEM'
+export const CLEAR_CART = 'CLEAR_CART'
+export const ADD_ORDER = 'ADD_ORDER'
+export const GET_ORDERS = 'GET_ORDERS'
+export const GETONEORDER = 'GETONEORDER'
+export const UPDATE_ORDER_STATUS = 'UPDATE_ORDER_STATUS'
+export const SETMYORDERS = 'SETMYORDERS'
+
